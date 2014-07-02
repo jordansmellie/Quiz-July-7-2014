@@ -10,6 +10,11 @@ namespace Quiz___July_7_2014
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a number:");
+            Console.ReadLine();
+
+            Console.WriteLine("Enter another number:");
+            Console.ReadLine();
         }
     }
 }
