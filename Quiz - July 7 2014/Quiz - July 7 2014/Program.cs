@@ -11,10 +11,20 @@ namespace Quiz___July_7_2014
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number:");
-            Console.ReadLine();
-
+            int num1 = int.Parse(Console.ReadLine());
+            
             Console.WriteLine("Enter another number:");
-            Console.ReadLine();
+            int num2 = int.Parse(Console.ReadLine());
+
+            if (num1 > num2)
+                Console.WriteLine("The smaller of the two numbers is: " + num2);
+            else if (num1 < num2)
+                Console.WriteLine("The smaller of the two numbers is: " + num1);
+            else
+                Console.WriteLine("Sorry, your numbers are the same.");
+
+            Console.WriteLine("Question 1 is complete. Moving on to Question 2...");
+            Console.ReadLine(); //End of program
         }
     }
 }

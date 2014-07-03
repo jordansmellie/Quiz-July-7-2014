@@ -20,8 +20,9 @@ namespace Question3
                     Console.WriteLine("Buzz");
                 else
                     Console.WriteLine(i);
-            } 
-            Console.ReadLine();
+            }
+            Console.WriteLine("Question 3 is complete. All done!");
+            Console.ReadLine(); //End of program
         }
     }
 }

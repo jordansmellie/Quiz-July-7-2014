@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz - July 7 2014", "Quiz - July 7 2014\Quiz - July 7 2014.csproj", "{3A90BD48-DA04-45CD-ACC2-1B5A5CD8154A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1", "Quiz - July 7 2014\Question1.csproj", "{3A90BD48-DA04-45CD-ACC2-1B5A5CD8154A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question 2", "..\Question 2\Question 2.csproj", "{17778D2D-3688-4F53-9957-060695BDEF8B}"
 EndProject
